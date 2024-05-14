@@ -23,6 +23,7 @@
 
 ## Используемая нейросеть
 [Yandex SpeechKit](https://yandex.cloud/ru/docs/speechkit/overview)
+
 [Yandex GPT](https://yandex.cloud/ru/docs/foundation-models/concepts/yandexgpt/?utm_referrer=https%3A%2F%2Fwww.yandex.ru%2F)
 
 
